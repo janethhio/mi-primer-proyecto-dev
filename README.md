@@ -5,7 +5,7 @@ Creciendo cada día como desarrolladora.
 Este es mi primer proyecto en GitHub donde práctico como usar ramas, commit issues y pull request.
 
 ## Archivos del proyecto 
-- Calculadora.js: contiene una calculadora básica en javaScript.
+- Calculadora.js: contiene una calculadora básica en JavaScript.
 - README.md: información del proyecto.
   
 ## Objetivo
