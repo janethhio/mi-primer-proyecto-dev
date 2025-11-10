@@ -16,3 +16,15 @@ function dividir(a, b) {
   }
   return a / b;
 }
+
+function seno (a) {
+  return Math.sin (a);
+}
+
+function coseno (a) {
+  return Math.cos (a);
+}
+
+function tangente (a) {
+  return Math.tan (a);
+}
